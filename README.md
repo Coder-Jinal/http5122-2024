@@ -9,4 +9,7 @@ This course delivers the fundamentals of computer programming and introduces the
 https://javascript.info/
 
 # Images
+![JavaScript Code Sample](JS.png)
 
+
+> **Note**: This course lays the groundwork for front-end development with JavaScript, a crucial skill for creating dynamic and interactive web applications.
